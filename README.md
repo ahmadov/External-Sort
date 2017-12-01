@@ -3,7 +3,7 @@ External Sort C++ implementation
 
 # USAGE
 ```
-look main.cpp file
+you can find an example in main.cpp file
 ```
 
 ## COMPILING
